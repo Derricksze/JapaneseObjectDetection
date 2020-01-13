@@ -1,0 +1,2 @@
+# JapaneseObjectDetection
+JapaneseObjectDetection for Video Summarization
