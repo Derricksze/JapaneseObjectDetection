@@ -14,7 +14,8 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 検出対象を以下に示す．
 
 #### 検出対象オブジェクト
-- [x] Torii(鳥居)
+- [x] Torii(鳥居(赤))
+- [ ] Torii(鳥居(赤以外))
 - [ ] Pagoda(五重の塔)
 - [ ] Gate(門)
 - [ ] Yanagi(柳)
